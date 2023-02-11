@@ -1,0 +1,24 @@
+#qoute-container{
+    text-align: center;
+    padding: 20px;
+
+}
+#qoute{
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: brown;
+
+}
+#author{
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+}
+#generate{
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: bisque;
+    border-radius: 2px;
+}
